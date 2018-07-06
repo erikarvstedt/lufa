@@ -11,7 +11,7 @@
     receive a continuous stream of packets to/from to the device, to show
     bidirectional communications.
 
-    Requires the pyUSB library (http://sourceforge.net/projects/pyusb/).
+    Requires the pyUSB library (https://github.com/pyusb/pyusb).
 """
 
 import sys

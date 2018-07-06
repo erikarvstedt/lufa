@@ -14,7 +14,7 @@
     pattern on the target board. Send and received report data is printed to
     the terminal.
 
-    Requires the PyUSB library (http://sourceforge.net/apps/trac/pyusb/).
+    Requires the PyUSB library (https://github.com/pyusb/pyusb).
 """
 
 import sys
